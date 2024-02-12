@@ -1,4 +1,4 @@
-package abhi.practice.singleton;
+package abhi.practice.patterns.singleton;
 
 import java.util.Objects;
 
