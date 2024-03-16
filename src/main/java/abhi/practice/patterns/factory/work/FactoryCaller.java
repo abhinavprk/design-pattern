@@ -9,7 +9,7 @@ import abhi.practice.patterns.factory.core.YouTubeChannelFactory;
  * Only Factory class in public and can be access from outside the package.
  * This protects and hides the implementation but also provides other packages to create the
  * objects of those classes.
- * <p>
+  * <p>
  * The concrete classes can internally make the configurations that are required without even
  * exposing the details.
  */
